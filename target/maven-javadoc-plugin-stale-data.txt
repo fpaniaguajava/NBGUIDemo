@@ -1,0 +1,52 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/ferna/.m2/repository/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.jar;C:/Users/ferna/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'D:/Proyectos/JavaCAS/NBGUIDemo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Proyectos/JavaCAS/NBGUIDemo/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'NBGUIDemo 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/Proyectos/JavaCAS/NBGUIDemo/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'NBGUIDemo 1.0-SNAPSHOT API'
+com.fernandopaniagua.generadordatos
+com.fernandopaniagua.nbguidemo
+'D:/Proyectos/JavaCAS/NBGUIDemo/src/main/java/com/fernandopaniagua/generadordatos/Empleado.java'
+'D:/Proyectos/JavaCAS/NBGUIDemo/src/main/java/com/fernandopaniagua/generadordatos/GestorPersistencia.java'
+'D:/Proyectos/JavaCAS/NBGUIDemo/src/main/java/com/fernandopaniagua/nbguidemo/App.java'
+'D:/Proyectos/JavaCAS/NBGUIDemo/src/main/java/com/fernandopaniagua/nbguidemo/TablaEmpleados.java'
+C:\Users\ferna\.m2\repository\com\mysql\mysql-connector-j\8.0.31\mysql-connector-j-8.0.31.jar = 1666716124701
+C:\Users\ferna\.m2\repository\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar = 1666716124642
+D:\Proyectos\JavaCAS\NBGUIDemo\src\main\java = 1667412590343
+D:\Proyectos\JavaCAS\NBGUIDemo\target\apidocs\allclasses-frame.html = 1667415939278
+D:\Proyectos\JavaCAS\NBGUIDemo\target\apidocs\allclasses-noframe.html = 1667415939280
+D:\Proyectos\JavaCAS\NBGUIDemo\target\apidocs\constant-values.html = 1667415939200
+D:\Proyectos\JavaCAS\NBGUIDemo\target\apidocs\deprecated-list.html = 1667415939276
+D:\Proyectos\JavaCAS\NBGUIDemo\target\apidocs\help-doc.html = 1667415939289
+D:\Proyectos\JavaCAS\NBGUIDemo\target\apidocs\index-all.html = 1667415939271
+D:\Proyectos\JavaCAS\NBGUIDemo\target\apidocs\index.html = 1667415939282
+D:\Proyectos\JavaCAS\NBGUIDemo\target\apidocs\overview-frame.html = 1667415939168
+D:\Proyectos\JavaCAS\NBGUIDemo\target\apidocs\overview-summary.html = 1667415939285
+D:\Proyectos\JavaCAS\NBGUIDemo\target\apidocs\overview-tree.html = 1667415939261
+D:\Proyectos\JavaCAS\NBGUIDemo\target\apidocs\package-list = 1667415939165
+D:\Proyectos\JavaCAS\NBGUIDemo\target\apidocs\script.js = 1667415939292
+D:\Proyectos\JavaCAS\NBGUIDemo\target\apidocs\serialized-form.html = 1667415939211
+D:\Proyectos\JavaCAS\NBGUIDemo\target\apidocs\stylesheet.css = 1667415939291
