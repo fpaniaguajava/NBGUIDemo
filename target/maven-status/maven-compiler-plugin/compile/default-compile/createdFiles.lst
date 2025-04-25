@@ -1,7 +1,9 @@
 com\fernandopaniagua\nbguidemo\App.class
 com\fernandopaniagua\nbguidemo\App$2.class
 com\fernandopaniagua\nbguidemo\App$3.class
+com\fernandopaniagua\nbguidemo\Refrescador.class
 com\fernandopaniagua\generadordatos\GestorPersistencia.class
+com\fernandopaniagua\nbguidemo\App$4.class
 com\fernandopaniagua\nbguidemo\App$1.class
 com\fernandopaniagua\generadordatos\Empleado.class
 com\fernandopaniagua\nbguidemo\TablaEmpleados.class

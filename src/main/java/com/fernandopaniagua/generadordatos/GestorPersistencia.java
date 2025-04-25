@@ -8,7 +8,7 @@ import java.sql.Statement;
 import java.util.ArrayList;
 
 
-public class GestorPersistencia {
+public final class GestorPersistencia {
 	protected static final String HOST_NAME = "localhost";
 	protected static final String PORT = "3306";
 	protected static final String DB_NAME = "bbdd_empleados";
@@ -18,7 +18,7 @@ public class GestorPersistencia {
 	protected Connection conexion = null;
 	
 	public GestorPersistencia() throws SQLException {
-		setConnection();
+		this.setConnection();
 	}
 	
 	protected void setConnection() throws SQLException{
